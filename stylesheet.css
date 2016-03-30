@@ -1,0 +1,49 @@
+#rainbow{
+	margin-left:3%;
+}
+#density{
+	margin-left: 67%;	
+}
+
+#buttonContainer{
+	margin: auto;
+	width : 800px;
+}
+
+#palletContainer{
+	width:75px;
+	height:225px;
+	float: left;
+	background:#E8E8E8;
+	margin-left:0;
+	margin-top: 100px;
+
+}
+.palletColor{
+	display:inline-block;
+	margin: 5px;
+	width:25px;
+	height:25px;
+}
+
+
+#container{
+	line-height:0;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 20px;
+	
+	display:block;
+}
+.block{
+
+	background:#E8E8E8 ;
+	display:inline-block;
+}
+
+.faded{
+	opacity : 0;
+}
+
+
